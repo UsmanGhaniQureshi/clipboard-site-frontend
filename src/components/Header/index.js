@@ -10,7 +10,7 @@ const Header = () => {
       }}
     >
       <FaRegCopyright className="w-24 h-24  md:w-36 md:h-36 text-slate-600" />
-      <h1 className="absolute bottom-8 text-black px-4 text-center text-xl md:text-3xl  font-extrabold font-sans">
+      <h1 className="absolute bottom-8 text-black px-4 text-center text-base md:text-2xl  font-extrabold font-sans">
         A History of Everything that you need copy.
       </h1>
     </div>
